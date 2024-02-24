@@ -1,0 +1,101 @@
+
+ 
+
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&family=Nanum+Gothic&family=UnifrakturMaguntia&display=swap');
+
+      
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-image: url(https://t3.ftcdn.net/jpg/06/25/25/46/360_F_625254647_SKbaN39P27vMaMpvJ9op5YaMIpMmw9ay.jpg);
+  
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+ 
+
+body {
+  background:#754d02;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  max-width: 1050px;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: 0 0 10px #f5f2f2aa;
+  padding: 25px;
+  margin-top: 150px;
+  margin-bottom: 50px;
+  
+}
+
+img {
+  margin-top: -125px;
+  width: 200px;
+  height: 200px;
+  
+ 
+  
+} 
+
+.unifrakturmaguntia-regular {
+  font-family: "UnifrakturMaguntia", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+  
+
+
+
+
+h1, h2 {
+  font-family: "UnifrakturMaguntia", cursive;
+  color: #ffffff;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+  position:  ;
+  left: 0px;
+  
+}
+
+p {
+  font-family: "UnifrakturMaguntia", cursive;
+  font-style: italic;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+ol, ul {
+  text-align: left;
+  color: #ffffff;
+}
+
+li::marker {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: "UnifrakturMaguntia", cursive;
+  font-style: italic;
+}
+a {
+    color: #f1c074
+}
+header{
+    font-family: "UnifrakturMaguntia", cursive;
+    color: #ffffff;
+    font-size: 50px;
+}
